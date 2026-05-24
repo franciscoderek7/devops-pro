@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "DevOps Pro",
+  "description": "DevOps Pro \u2014 Enterprise DevOps automation tools. CI/CD pipelines, Kubernetes management, and infrastructure-as-code solutions.",
+  "url": "https://franciscoderek7.github.io/devops-pro",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "99",
+    "highPrice": "2499"
+  }
+}
